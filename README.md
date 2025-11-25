@@ -119,8 +119,10 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satwik51&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satwik51&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Satwik51&theme=tokyonight&hide_border=true" height="165" />
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+  <br/>
 
 ### Activity Pulse
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satwik51&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
@@ -149,9 +151,6 @@
 ---
 
 ## 🤝 Let's Build
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
-  <br/>
   <a href="https://www.linkedin.com/in/satwik-rai-705371288/"><img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:satwikr.ai@example.com"><img src="https://img.shields.io/badge/Email-Start%20a%20Project-EE6055?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
@@ -162,4 +161,8 @@
 <div align="center">
   <p style="font-style: italic;">Build bold. Measure honestly. Iterate relentlessly.</p>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+  <br/>
 
