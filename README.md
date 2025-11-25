@@ -123,7 +123,7 @@
 </div>
 
 ### Activity Pulse
-![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=Satwik51&theme=react-dark&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satwik51&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
 
 ### Community Signals
 ![Followers](https://img.shields.io/github/followers/Satwik51?style=flat-square)
@@ -148,9 +148,9 @@
 
 ---
 
-## 🤝 Let’s Build
+## 🤝 Let's Build
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/loop.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
   <br/>
   <a href="https://www.linkedin.com/in/satwik-rai-705371288/"><img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:satwikr.ai@example.com"><img src="https://img.shields.io/badge/Email-Start%20a%20Project-EE6055?style=for-the-badge&logo=gmail&logoColor=white" /></a>
