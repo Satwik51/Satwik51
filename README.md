@@ -34,9 +34,7 @@
 - <span style="color:#f97316;">Translate product requirements into clean architecture with reliable CI.</span>
 - <span style="color:#22c55e;">Keep a feedback loop between design, performance metrics, and user delight.</span>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="75%" />
-</div>
+
 
 ## ✨ Signature Highlights
 <div align="center">
@@ -112,17 +110,14 @@
 - **Human-first UX**: prioritize motion, accessibility, and micro-interactions.
 - **Reliable delivery**: automated testing pipelines, crash-free releases, crisp changelogs.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloud.png" width="60%" />
-</div>
 
 ---
 
 ## 📈 Live Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satwik51&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwik51&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satwik51&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satwik51&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satwik51&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Satwik51&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 ### Activity Pulse
