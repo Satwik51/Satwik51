@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="hero banner" width="100%" />
-  <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" height="220" alt="android mascot animation" />
+  <img src="assets/Android%203D%20animation.gif" height="220" alt="android mascot animation" />
   <h2>Premium Android experiences with Kotlin, Compose, and measurable UX.</h2>
   <p>Designing thoughtful Android journeys from prototype to production—clean, fast, and scalable.</p>
   <a href="https://github.com/Satwik51"><img src="https://img.shields.io/badge/GitHub-Satwik51-181717?style=for-the-badge&logo=github" /></a>
@@ -53,6 +53,28 @@
       <td width="33%">
         <h4>Builder in Public</h4>
         <p>Iterating via GitHub, sharing progress, and inviting collaboration.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎞 Animation Highlights
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <img src="assets/Android%20Studio%20New%20Logo.gif" height="170" alt="android studio animation" />
+        <p><strong>Tooling</strong><br/>Android Studio flows, Gradle health checks, CI-friendly builds.</p>
+      </td>
+      <td width="33%">
+        <img src="assets/Mobile%20App%20Showcase.gif" height="170" alt="mobile app showcase animation" />
+        <p><strong>Product drops</strong><br/>Compose-first UI journeys with premium motion.</p>
+      </td>
+      <td width="33%">
+        <img src="assets/Man%20working%20on%20computer.gif" height="170" alt="focused build animation" />
+        <p><strong>Build energy</strong><br/>Shipping fast, pairing often, documenting along the way.</p>
       </td>
     </tr>
   </table>
