@@ -132,9 +132,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Satwik51&style=flat-square&color=brightgreen)
 <br/>
 
-<div align="left">
 ## 🧪 Build Loop
-</div>
 <div align="left" style="background:linear-gradient(90deg,#0f172a,#134e4a,#4338ca);padding:18px;border-radius:18px;color:#f8fafc;">
   <code style="font-size:18px;text-align:left;display:block;">Ideate → Wireframe → Compose prototypes → Instrument → Ship → Learn → Iterate</code>
   <ul style="text-align:left;margin-left:0;padding-left:20px;">
@@ -146,9 +144,7 @@
 
 ---
 
-<div align="left">
 ## 🔭 Currently Exploring
-</div>
 <div align="left">
 - Adaptive layouts for foldables
 - Motion-driven onboarding flows
