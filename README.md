@@ -97,7 +97,7 @@
 ## 🧰 Toolbox
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,github,firebase,figma,cpp" alt="skill icons" />
-  <br/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" height="48" alt="XML icon" />
 </div>
 
