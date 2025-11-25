@@ -1,64 +1,105 @@
-# Hello, I'm Satwik Rai 👋
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="48" alt="hello" /> Satwik Rai — Android Engineer
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="90" alt="hello" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00E0FF&center=true&vCenter=true&width=520&lines=Android+Developer;Jetpack+Compose+Enthusiast;Shipping+delightful+mobile+experiences" alt="typing-intro" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="hero banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=11F1FF&center=true&vCenter=true&width=600&lines=Android+Engineer;Product-minded+builder;Compose+%2B+Clean+Architecture+fanatic" alt="typing headline" />
+  <p>Designing thoughtful Android experiences from prototype to production—clean, fast, and measurable.</p>
+  <a href="https://github.com/Satwik51"><img src="https://img.shields.io/badge/GitHub-Satwik51-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/satwik-rai-705371288/"><img src="https://img.shields.io/badge/LinkedIn-Satwik%20Rai-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </div>
 
 ---
 
-## 🚀 Executive Snapshot
-- 📱 Android engineer focused on premium Kotlin experiences with Jetpack Compose and Material 3.
-- 🧭 Strong believer in scalable architecture, testability, and measurable UX impact.
-- 🌱 Currently exploring offline-first designs, design systems, and AI-assisted feature flows.
-- 🌐 Portfolio in public: [`github.com/Satwik51`](https://github.com/Satwik51) • [`linkedin.com/in/satwik-rai-705371288`](https://www.linkedin.com/in/satwik-rai-705371288/)
+## 🥇 Snapshot Scorecard
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Focus</strong><br/>Android / Kotlin / Compose</td>
+      <td><strong>Mindset</strong><br/>Product-first, data-backed UX</td>
+      <td><strong>Repos in play</strong><br/>5 public builds</td>
+      <td><strong>Community</strong><br/>Live on GitHub & LinkedIn</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🛠 Core Toolkit
-`Kotlin` · `Java` · `C++` · `Jetpack Compose` · `Material 3` · `Coroutines & Flow` · `Room` · `Retrofit` · `Firebase` · `CI/CD (GitHub Actions)`
+## 🚀 Mission
+- Build Android products that feel premium, load instantly, and scale gracefully.
+- Translate product requirements into clean architecture with reliable CI.
+- Keep a feedback loop between design, performance metrics, and user delight.
 
 ---
 
-## 📂 Selected Work
-| Project | Stack | Focus |
+## 🎯 Flagship Projects
+| Project | Stack | Impact Snapshot |
 | --- | --- | --- |
-| [`AgroHelp`](https://github.com/Satwik51/AgroHelp) | Kotlin · Firebase | Decision support for growers with Compose UI |
-| [`UnitConverterApp`](https://github.com/Satwik51/UnitConverterApp) | Android · MVVM | Utility app tuned for fast conversions |
-| [`Portfolio`](https://github.com/Satwik51/Portfolio) | HTML · CSS | Personal showcase with custom theming |
-| [`CODSOFT`](https://github.com/Satwik51/CODSOFT-) | C++ | Algorithm drills and systems thinking |
+| [`AgroHelp`](https://github.com/Satwik51/AgroHelp) | Kotlin · Firebase · Compose | Turning agronomy insights into offline-friendly Android workflows. |
+| [`UnitConverterApp`](https://github.com/Satwik51/UnitConverterApp) | MVVM · Material 3 | Ultra-fast conversion toolkit crafted for everyday power users. |
+| [`Portfolio`](https://github.com/Satwik51/Portfolio) | HTML · CSS · Animations | Personal brand site with subtle motion and responsive layouts. |
+| [`CODSOFT`](https://github.com/Satwik51/CODSOFT-) | C++ | Algorithm drills fueling better problem-solving instincts. |
 
 ---
 
-## 📊 GitHub Analytics
+## 🧰 Toolbox
+**Mobile**: `Kotlin` · `Java` · `Jetpack Compose` · `Material 3` · `Navigation`  
+**Architecture**: `MVVM` · `Clean Architecture` · `Coroutines & Flow` · `Room` · `Retrofit`  
+**Productivity**: `Android Studio` · `Firebase` · `GitHub Actions` · `Figma handoff` · `Notion`
+
+---
+
+## 🧭 Operating Principles
+- **Design to measure**: ship features with analytics hooks and A/B-ready toggles.
+- **Human-first UX**: prioritize motion, accessibility, and micro-interactions.
+- **Reliable delivery**: automated testing pipelines, crash-free releases, crisp changelogs.
+
+---
+
+## 📈 Live Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satwik51&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwik51&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satwik51&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satwik51&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwik51&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satwik51&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
----
-
-## ⚡ Signals
-- Community snapshot: ![Followers](https://img.shields.io/github/followers/Satwik51?style=flat-square)
-- Visibility tracker: ![Profile Views](https://komarev.com/ghpvc/?username=Satwik51&style=flat-square&color=brightgreen)
-- Contribution galaxy:
-
+### Activity Pulse
 ![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=Satwik51&theme=react-dark&hide_border=true)
 
+### Community Signals
+![Followers](https://img.shields.io/github/followers/Satwik51?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Satwik51&style=flat-square&color=brightgreen)
+
 ---
 
-## 🤝 Collaboration
-<a href="https://www.linkedin.com/in/satwik-rai-705371288/"><img src="https://img.shields.io/badge/LinkedIn-Satwik%20Rai-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:satwikr.ai@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+## 🧪 Build Loop
+```
+Ideate → Wireframe → Compose prototypes → Instrument → Ship → Learn → Iterate
+```
+- Compose previews for rapid UI decisions.  
+- Structured QA checklist before every push.  
+- Retros after each feature to capture learnings.
 
-> Happy to discuss Android delivery, UX craftsmanship, or product-led growth experiments—just reach out.
+---
+
+## 🔭 Currently Exploring
+- Adaptive layouts for foldables
+- Motion-driven onboarding flows
+- AI copilots that assist inside Android apps
+
+---
+
+## 🤝 Let’s Build
+<div align="center">
+  <a href="https://www.linkedin.com/in/satwik-rai-705371288/"><img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:satwikr.ai@example.com"><img src="https://img.shields.io/badge/Email-Start%20a%20Project-EE6055?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+> Ready for collaborations around Android, product experiments, or polished UX rollouts.
 
 ---
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="120" alt="coding gif" />
-  <p>“Build. Measure. Polish. Ship.”</p>
+  <p style="font-style: italic;">Build bold. Measure honestly. Iterate relentlessly.</p>
 </div>
 
