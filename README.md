@@ -117,7 +117,7 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satwik51&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satwik51&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=Satwik51&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Satwik51&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 ### Activity Pulse
