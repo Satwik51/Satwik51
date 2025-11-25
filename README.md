@@ -124,6 +124,8 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
   <br/>
 
+---
+
 ### Activity Pulse
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satwik51&bg_color=0D1117&color=58A6FF&line=00D9FF&point=00D9FF&area=true&area_color=00D9FF&hide_border=true" alt="Activity Graph" />
 
