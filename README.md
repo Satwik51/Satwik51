@@ -125,16 +125,17 @@
   <br/>
 
 ### Activity Pulse
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satwik51&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satwik51&bg_color=0D1117&color=58A6FF&line=00D9FF&point=00D9FF&area=true&area_color=00D9FF&hide_border=true" alt="Activity Graph" />
 
 ### Community Signals
 ![Followers](https://img.shields.io/github/followers/Satwik51?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=Satwik51&style=flat-square&color=brightgreen)
+<br/>
 
 ## 🧪 Build Loop
 <div align="left" style="background:linear-gradient(90deg,#0f172a,#134e4a,#4338ca);padding:18px;border-radius:18px;color:#f8fafc;">
-  <code style="font-size:18px;">Ideate → Wireframe → Compose prototypes → Instrument → Ship → Learn → Iterate</code>
-  <ul style="text-align:left;">
+  <code style="font-size:18px;text-align:left;display:block;">Ideate → Wireframe → Compose prototypes → Instrument → Ship → Learn → Iterate</code>
+  <ul style="text-align:left;margin-left:0;padding-left:20px;">
     <li>Compose previews for rapid UI decisions.</li>
     <li>Structured QA checklist before every push.</li>
     <li>Retros after each feature to capture learnings.</li>
@@ -144,9 +145,11 @@
 ---
 
 ## 🔭 Currently Exploring
+<div align="left">
 - Adaptive layouts for foldables
 - Motion-driven onboarding flows
 - AI copilots that assist inside Android apps
+</div>
 
 ---
 
