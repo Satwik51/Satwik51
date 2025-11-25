@@ -19,10 +19,10 @@
 <div align="center">
   <table>
     <tr>
-      <td>📱<br/><strong>Focus</strong><br/>Android / Kotlin / Compose</td>
-      <td>🧭<br/><strong>Mindset</strong><br/>Product-first, data-backed UX</td>
-      <td>📦<br/><strong>Repos</strong><br/>5 public builds</td>
-      <td>🌐<br/><strong>Community</strong><br/>Always online</td>
+      <td style="background:#042f2e;color:#34d399;padding:16px;border-radius:16px;">📱<br/><strong>Focus</strong><br/>Android / Kotlin / Compose</td>
+      <td style="background:#312e81;color:#c4b5fd;padding:16px;border-radius:16px;">🧭<br/><strong>Mindset</strong><br/>Product-first, data-backed UX</td>
+      <td style="background:#3f0d12;color:#f9a8d4;padding:16px;border-radius:16px;">📦<br/><strong>Repos</strong><br/>5 public builds</td>
+      <td style="background:#1e1b4b;color:#facc15;padding:16px;border-radius:16px;">🌐<br/><strong>Community</strong><br/>Always online</td>
     </tr>
   </table>
 </div>
@@ -30,9 +30,9 @@
 ---
 
 ## 🚀 Mission
-- Build Android products that feel premium, load instantly, and scale gracefully.
-- Translate product requirements into clean architecture with reliable CI.
-- Keep a feedback loop between design, performance metrics, and user delight.
+- <span style="color:#0ea5e9;">Build Android products that feel premium, load instantly, and scale gracefully.</span>
+- <span style="color:#f97316;">Translate product requirements into clean architecture with reliable CI.</span>
+- <span style="color:#22c55e;">Keep a feedback loop between design, performance metrics, and user delight.</span>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="75%" />
@@ -42,15 +42,15 @@
 <div align="center">
   <table>
     <tr>
-      <td width="33%">
+      <td width="33%" style="background:#0f172a;color:#f1f5f9;padding:18px;border-radius:18px;">
         <h4>Experience Architect</h4>
         <p>Compose-first systems with motion, accessibility, and brand fidelity baked in.</p>
       </td>
-      <td width="33%">
+      <td width="33%" style="background:#1f2937;color:#fef3c7;padding:18px;border-radius:18px;">
         <h4>Performance Hawk</h4>
         <p>Crash-free releases, cold-start profiling, and instrumentation for every big bet.</p>
       </td>
-      <td width="33%">
+      <td width="33%" style="background:#111827;color:#c7d2fe;padding:18px;border-radius:18px;">
         <h4>Builder in Public</h4>
         <p>Iterating via GitHub, sharing progress, and inviting collaboration.</p>
       </td>
@@ -60,21 +60,21 @@
 
 ---
 
-## 🎞 Animation Highlights
+## 🌟 Satwik In Motion
 <div align="center">
   <table>
     <tr>
-      <td width="33%">
+      <td width="33%" style="background:#083344;color:#f0fdfa;padding:16px;border-radius:16px;">
         <img src="assets/Android%20Studio%20New%20Logo.gif" height="170" alt="android studio animation" />
-        <p><strong>Tooling</strong><br/>Android Studio flows, Gradle health checks, CI-friendly builds.</p>
+        <p><strong>Crafts flawless tooling workflows</strong><br/>Android Studio flows, Gradle health checks, CI-friendly builds.</p>
       </td>
-      <td width="33%">
+      <td width="33%" style="background:#312e81;color:#f5f3ff;padding:16px;border-radius:16px;">
         <img src="assets/Mobile%20App%20Showcase.gif" height="170" alt="mobile app showcase animation" />
-        <p><strong>Product drops</strong><br/>Compose-first UI journeys with premium motion.</p>
+        <p><strong>Delivers polished product drops</strong><br/>Compose-first UI journeys with premium motion.</p>
       </td>
-      <td width="33%">
+      <td width="33%" style="background:#3f0d12;color:#ffe4e6;padding:16px;border-radius:16px;">
         <img src="assets/Man%20working%20on%20computer.gif" height="170" alt="focused build animation" />
-        <p><strong>Build energy</strong><br/>Shipping fast, pairing often, documenting along the way.</p>
+        <p><strong>Brings relentless build energy</strong><br/>Shipping fast, pairing often, documenting along the way.</p>
       </td>
     </tr>
   </table>
@@ -89,6 +89,10 @@
 | [`UnitConverterApp`](https://github.com/Satwik51/UnitConverterApp) | MVVM · Material 3 | Ultra-fast conversion toolkit crafted for everyday power users. |
 | [`Portfolio`](https://github.com/Satwik51/Portfolio) | HTML · CSS · Animations | Personal brand site with subtle motion and responsive layouts. |
 | [`CODSOFT`](https://github.com/Satwik51/CODSOFT-) | C++ | Algorithm drills fueling better problem-solving instincts. |
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="85%" />
+</div>
 
 ---
 
@@ -129,12 +133,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Satwik51&style=flat-square&color=brightgreen)
 
 ## 🧪 Build Loop
-```
-Ideate → Wireframe → Compose prototypes → Instrument → Ship → Learn → Iterate
-```
-- Compose previews for rapid UI decisions.  
-- Structured QA checklist before every push.  
-- Retros after each feature to capture learnings.
+<div align="center" style="background:linear-gradient(90deg,#0f172a,#134e4a,#4338ca);padding:18px;border-radius:18px;color:#f8fafc;">
+  <code style="font-size:18px;">Ideate → Wireframe → Compose prototypes → Instrument → Ship → Learn → Iterate</code>
+  <ul style="text-align:left;">
+    <li>Compose previews for rapid UI decisions.</li>
+    <li>Structured QA checklist before every push.</li>
+    <li>Retros after each feature to capture learnings.</li>
+  </ul>
+</div>
 
 ---
 
