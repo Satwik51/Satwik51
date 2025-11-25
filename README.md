@@ -132,6 +132,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Satwik51&style=flat-square&color=brightgreen)
 <br/>
 
+---
+
 ## 🧪 Build Loop
 <div align="left" style="background:linear-gradient(90deg,#0f172a,#134e4a,#4338ca);padding:18px;border-radius:18px;color:#f8fafc;">
   <code style="font-size:18px;text-align:left;display:block;">Ideate → Wireframe → Compose prototypes → Instrument → Ship → Learn → Iterate</code>
@@ -146,9 +148,12 @@
 
 ## 🔭 Currently Exploring
 <div align="left">
-- Adaptive layouts for foldables
-- Motion-driven onboarding flows
-- AI copilots that assist inside Android apps
+
+<ul style="text-align:left;margin-left:0;padding-left:20px;">
+    <li>Adaptive layouts for foldables.</li>
+    <li>Motion-driven onboarding flows.</li>
+    <li>AI copilots that assist inside Android apps.</li>
+  </ul>
 </div>
 
 ---
